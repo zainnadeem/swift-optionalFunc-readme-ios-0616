@@ -6,8 +6,8 @@
 
 ## Learning Objectives - The student should be able to...
 
-* Learn how to return `Optional` types from functions
-* Learn how to accept and work with `Optional` function parameters
+* Return `Optional` types from functions
+* Accept and work with `Optional` function parameters
 
 ## Returning `Optional`s From Functions
 
