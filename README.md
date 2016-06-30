@@ -1,10 +1,10 @@
 # Optionals & Functions
 
-![Sam](http://i.imgur.com/lYsMwwy.jpg?1)
+![Sam](http://i.imgur.com/6MWBVeq.jpg?1)
 
-> Don't watch the clock; do what it does. Keep going. ~[Sam Levenson](https://en.wikipedia.org/wiki/Sam_Levenson)
+> Don't watch the clock; do what it does. Keep going. -[Sam Levenson](https://en.wikipedia.org/wiki/Sam_Levenson)
 
-## Learning Objectives - The student should be able to...
+## Learning Objectives
 
 * Return `Optional` types from functions
 * Accept and work with `Optional` function parameters
